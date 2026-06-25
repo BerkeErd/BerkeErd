@@ -40,13 +40,11 @@
 
 ## 🎮 Developer Loadout
 
-| Attribute | Equipped |
 | :--- | :--- |
 | **Class** | Solo Unity Developer |
 | **Studio** | Beruke Games |
 | **Main Weapon** | C# |
 | **Game Engine** | Unity |
-| **Specialization** | 2D Games, Roguelites and Gameplay Systems |
 | **Passive Ability** | Turning Coffee Into Prefabs |
 | **Games Shipped** | 13+ |
 | **Current Quest** | Wizard's Path: Palette of Spells |
