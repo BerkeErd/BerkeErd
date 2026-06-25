@@ -46,7 +46,7 @@
 | **Studio** | Beruke Games |
 | **Main Weapon** | C# |
 | **Game Engine** | Unity |
-| **Passive Ability** | Turning Coffee Into Prefabs |
+| **Passive Ability** | **Off-Meta Curiosity** — Keeps trying unusual ideas, whether they land or not |
 | **Games Shipped** | 13+ |
 | **Current Quest** | Wizard's Path: Palette of Spells |
 
