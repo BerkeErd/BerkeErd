@@ -78,8 +78,4 @@
 
 ---
 
-<div align="center">
-
-### Building one game at a time. 🎮
-
 </div>
